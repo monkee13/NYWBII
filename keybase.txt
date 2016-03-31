@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/monkee13
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nothingyouwouldbeinterestedin.com
+  * I am monkee13 (https://keybase.io/monkee13) on keybase.
+  * I have a public key with fingerprint C0FE DAB4 0254 A4E5 06F8  7683 326A 4AE4 09E7 3017
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c0fedab40254a4e506f87683326a4ae409e73017",
+            "host": "keybase.io",
+            "key_id": "326a4ae409e73017",
+            "kid": "010142105165a03cfbd2394fb3f40487cf897a856aa5076120605c082c561b61978d0a",
+            "uid": "bad6aa0f5f1f155728c0c8c30e6de919",
+            "username": "monkee13"
+        },
+        "service": {
+            "hostname": "nothingyouwouldbeinterestedin.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429566349,
+    "expire_in": 157680000,
+    "prev": "824fa719dca24287ed9e86d302fa2fcb98aebf13a43e897e8d43f2e898837bc8",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIvAnicbZJdSBVBFMev2pdK5ENRVIhskRFiM7uzu7OSYlaQQYalVmLJ7O7sdVN3
+13v3WiI3ewkjE7J6UQOJFEvfEm+fSB/2hWn0oEb24YMoRUoIlUlas2JvzcvMnPmf
+35nz5/SujPHFRfEn9o3FToC1UX2PCkK+fDFYX82ptl7FpVVzpXRhM0zLTwNOwLRc
+Lo3TgEF1oiLAi4ggKgLJwLKEBYGXCCIUAYXKAoAyl8KV2EEvg2FUEqSpps1i7FJs
+6iz6H33pwgOAACIeAhFKIgGCZqg6LyjIUAUDAYRlzcCKTLAoESICWYI8kICoAcxr
+ogRVCSoy1gFhuNACTiU6UwJDNKABRVHmsQY0rAmASjpVoOIJgzRgkXLK1OW2VUop
+FLhwCseilaZGPQu8ThYVlu2WMEOq7NBJO1Smq5TZQgM06FLdtFI1u5wBnYDt2ppd
+xuQlruukeTS3yvHST1K1eBFcrJoWy/GzhEoaCJq2xaVBptRc06vETFBESRKQksLR
+U44ZoMWmpxCZ24AtrwytZEjMI4PIUNE1wiMey1RXKJZ0AfAG4Q1NVTChqgEFggTK
+rKNYR4LBsyPGgqxqmPNarbBsxobsn8TPmEHTbxE3FKBc+PHDoiW+qDjfsqXR3nj4
+4mIT/g1NZ2T5fMqL1PswcguRnYfvfR28eK4o/WdSVnN7TVJf68HJ7Oa2I1PimqZL
+vaUNaOvI1ZxPyXs2rlsdXdsRmpnoyJ2fzr9ReLk3nPf8o7//i3M9/fXnxIHvu7PG
+Y8YKz3fveJfaOupsOP2mywgPZe7a+7QlY2bqrDrrdAaH5q+N7tePRuKvlE33+l72
+zHy4q84Vbj7eU9/ffae97kf8yL1NWmQGljkDlx6veivN5ZS3vCqIau8eGp56lP2g
+8eHNnm11FyryM39tb9hyYH1N7opI/Jm2umG4Met215PJYdSclziY3JjzrSbzydT7
+QzXxkxlSwuyfLdZ4beT6tC9MZo/8buouenZM3foXWhY5MQ==
+=ohwb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/monkee13
+
+==================================================================

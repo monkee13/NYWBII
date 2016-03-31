@@ -1,0 +1,78 @@
+[03/31/2016 12:05:54] [*] ==================================================
+[03/31/2016 12:05:54] [*] Connection from Demo_Page @ 159.203.226.53:41348 via HTML
+[03/31/2016 12:05:54] [*] Query String: target=Demo_Page&agent=HTML
+[03/31/2016 12:05:54] [*] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+[03/31/2016 12:05:54] [*] Comment: 
+[03/31/2016 12:05:54] [*] Attempting to geolocate by IP.
+[03/31/2016 12:05:55] [*] API URL used: http://uniapple.net/geoip/?ip=159.203.226.53
+[03/31/2016 12:05:55] [*] JSON object retrived:
+{"country":"US","region":"MI","city":"Auburn Hills","postal_code":"48326","latitude":"42.6644","longitude":"-83.2303","metro_code":"505","area_code":"248"}
+[03/31/2016 12:05:55] [*] Target location identified as Lat: 42.6644, Lng: -83.2303
+[03/31/2016 12:06:04] [*] ==================================================
+[03/31/2016 12:06:04] [*] Connection from Demo_Page @ 159.203.226.53:41354 via JavaScript
+[03/31/2016 12:06:04] [*] Query String: target=Demo_Page&agent=JavaScript&lat=37.7304167&lng=-122.384425&acc=1768
+[03/31/2016 12:06:04] [*] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+[03/31/2016 12:06:04] [*] Comment: 
+[03/31/2016 12:06:04] [*] Target location identified as Lat: 37.7304167, Lng: -122.384425
+[03/31/2016 12:10:38] [*] ==================================================
+[03/31/2016 12:10:38] [*] Connection from NYWBII @ 151.147.160.16:65331 via HTML
+[03/31/2016 12:10:38] [*] Query String: target=NYWBII&agent=HTML
+[03/31/2016 12:10:38] [*] User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+[03/31/2016 12:10:38] [*] Comment: 
+[03/31/2016 12:10:38] [*] Attempting to geolocate by IP.
+[03/31/2016 12:10:38] [*] API URL used: http://uniapple.net/geoip/?ip=151.147.160.16
+[03/31/2016 12:10:38] [*] JSON object retrived:
+{"country":"US","region":"IL","city":"Itasca","postal_code":"60143","latitude":"41.9708","longitude":"-88.0179","metro_code":"602","area_code":"630"}
+[03/31/2016 12:10:38] [*] Target location identified as Lat: 41.9708, Lng: -88.0179
+[03/31/2016 12:12:50] [*] ==================================================
+[03/31/2016 12:12:50] [*] Connection from NYWBII @ 151.147.160.16:8347 via JavaScript
+[03/31/2016 12:12:50] [*] Query String: target=NYWBII&agent=JavaScript&lat=41.975028699999996&lng=-88.0072909&acc=2123
+[03/31/2016 12:12:50] [*] User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+[03/31/2016 12:12:50] [*] Comment: 
+[03/31/2016 12:12:50] [*] Target location identified as Lat: 41.975028699999996, Lng: -88.0072909
+[03/31/2016 12:16:01] [*] ==================================================
+[03/31/2016 12:16:01] [*] Connection from NYWBII @ 151.147.160.16:20002 via HTML
+[03/31/2016 12:16:01] [*] Query String: target=NYWBII&agent=HTML
+[03/31/2016 12:16:01] [*] User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+[03/31/2016 12:16:01] [*] Comment: 
+[03/31/2016 12:16:01] [*] Attempting to geolocate by IP.
+[03/31/2016 12:16:02] [*] API URL used: http://uniapple.net/geoip/?ip=151.147.160.16
+[03/31/2016 12:16:02] [*] JSON object retrived:
+{"country":"US","region":"IL","city":"Itasca","postal_code":"60143","latitude":"41.9708","longitude":"-88.0179","metro_code":"602","area_code":"630"}
+[03/31/2016 12:16:02] [*] Target location identified as Lat: 41.9708, Lng: -88.0179
+[03/31/2016 12:18:23] [*] ==================================================
+[03/31/2016 12:18:23] [*] Connection from NYWBII @ 151.147.160.16:28697 via HTML
+[03/31/2016 12:18:23] [*] Query String: target=NYWBII&agent=HTML
+[03/31/2016 12:18:23] [*] User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+[03/31/2016 12:18:23] [*] Comment: 
+[03/31/2016 12:18:23] [*] Attempting to geolocate by IP.
+[03/31/2016 12:18:24] [*] API URL used: http://uniapple.net/geoip/?ip=151.147.160.16
+[03/31/2016 12:18:24] [*] JSON object retrived:
+{"country":"US","region":"IL","city":"Itasca","postal_code":"60143","latitude":"41.9708","longitude":"-88.0179","metro_code":"602","area_code":"630"}
+[03/31/2016 12:18:24] [*] Target location identified as Lat: 41.9708, Lng: -88.0179
+[03/31/2016 12:18:38] [*] ==================================================
+[03/31/2016 12:18:38] [*] Connection from NYWBII @ 151.147.160.16:29778 via HTML
+[03/31/2016 12:18:38] [*] Query String: target=NYWBII&agent=HTML
+[03/31/2016 12:18:38] [*] User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+[03/31/2016 12:18:38] [*] Comment: 
+[03/31/2016 12:18:38] [*] Attempting to geolocate by IP.
+[03/31/2016 12:18:38] [*] API URL used: http://uniapple.net/geoip/?ip=151.147.160.16
+[03/31/2016 12:18:38] [*] JSON object retrived:
+{"country":"US","region":"IL","city":"Itasca","postal_code":"60143","latitude":"41.9708","longitude":"-88.0179","metro_code":"602","area_code":"630"}
+[03/31/2016 12:18:38] [*] Target location identified as Lat: 41.9708, Lng: -88.0179
+[03/31/2016 12:21:15] [*] ==================================================
+[03/31/2016 12:21:15] [*] Connection from NYWBII @ 159.203.226.53:41752 via HTML
+[03/31/2016 12:21:15] [*] Query String: target=NYWBII&agent=HTML
+[03/31/2016 12:21:15] [*] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+[03/31/2016 12:21:15] [*] Comment: 
+[03/31/2016 12:21:15] [*] Attempting to geolocate by IP.
+[03/31/2016 12:21:16] [*] API URL used: http://uniapple.net/geoip/?ip=159.203.226.53
+[03/31/2016 12:21:16] [*] JSON object retrived:
+{"country":"US","region":"MI","city":"Auburn Hills","postal_code":"48326","latitude":"42.6644","longitude":"-83.2303","metro_code":"505","area_code":"248"}
+[03/31/2016 12:21:16] [*] Target location identified as Lat: 42.6644, Lng: -83.2303
+[03/31/2016 12:21:17] [*] ==================================================
+[03/31/2016 12:21:17] [*] Connection from NYWBII @ 159.203.226.53:41752 via JavaScript
+[03/31/2016 12:21:17] [*] Query String: target=NYWBII&agent=JavaScript&lat=37.7304167&lng=-122.384425&acc=1768
+[03/31/2016 12:21:17] [*] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+[03/31/2016 12:21:17] [*] Comment: 
+[03/31/2016 12:21:17] [*] Target location identified as Lat: 37.7304167, Lng: -122.384425
